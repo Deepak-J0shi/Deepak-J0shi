@@ -25,7 +25,7 @@
   <a href="https://huggingface.co/joshi-deepak08" target="_blank">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40px"/>
   </a>
-  <a href="[https://medium.com/@your-username](https://medium.com/@joshideepak2334)" target="_blank">
+  <a href="https://medium.com/@joshideepak2334" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" width="40px"/>
   </a>
 </p>
