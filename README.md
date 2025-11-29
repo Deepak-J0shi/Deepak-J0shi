@@ -1,92 +1,51 @@
-# Hi, I'm Deepak Joshi  
+<h1 align="center">Hi, I'm Deepak Joshi</h1>
 
-**Machine Learning | Data Science | AI Engineering | Backend Development**
+<p align="center">
+  <strong>Machine Learning • Data Science • AI Engineering</strong>
+</p>
 
-I’m a third-year Computer Science Engineering student passionate about building intelligent systems, real-world ML applications, data-driven solutions, and backend architectures.
+---
 
-My work focuses on:  
-- Machine learning & predictive modeling  
-- Data analysis & visualization  
-- FastAPI-based backend systems  
+### 🔍 Currently Learning  
+- Advanced Machine Learning  
 - Retrieval-Augmented Generation (RAG)  
-- Natural Language Processing  
-- Real-world problem solving (GovTech, Accessibility, Rural solutions)
+- Backend Engineering with FastAPI  
 
 ---
 
-## 🔗 Portfolio  
-**https://your-portfolio-link-here.com**  
-(Replace this with your real portfolio link)
+### 🔗 Portfolio & Resume  
+**Portfolio:** [https://your-portfolio-link.com](https://portfolio-main-tan-three.vercel.app/)  
+**Resume:** [https://your-resume-link.com](https://drive.google.com/file/d/1Dnooik6tTwi44TPvtb_MtUxsFLmQQbEB/view?usp=sharing)  
 
 ---
 
-## 🧠 What I'm Currently Working On  
-- **Panchayat Sahayika** – A multilingual, AI-driven rural governance assistant  
-- Low-light image enhancement for **ISRO Chandrayaan-2 OHRC** imagery  
-- Internship scraping & NLP-based question answering system (Flask + LLM)
+### 🌐 Connect with Me  
+<p align="left">
+  <a href="[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/deepak-joshi-417570293/)" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px"/>
+  </a>
+  <a href="[https://huggingface.co/your-username](https://huggingface.co/joshi-deepak08)" target="_blank">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40px"/>
+  </a>
+  <a href="[https://medium.com/@your-username](https://medium.com/@joshideepak2334)" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" width="40px"/>
+  </a>
+</p>
 
 ---
 
-## 🚀 Skills & Tools  
-
-**Languages:**  
-Python, C++, SQL, Bash  
-
-**Machine Learning & AI:**  
-TensorFlow, Keras, Scikit-Learn, FastEmbed, Sentence Transformers, RAG  
-
-**Data Science:**  
-Pandas, NumPy, Matplotlib, Seaborn, GeoPandas, Shapely  
-
-**Backend & Databases:**  
-FastAPI, Flask, PostgreSQL, SQLite, PostGIS, Qdrant  
-
-**Cloud & DevOps:**  
-AWS, GCP, Docker  
-
-**Others:**  
-Git, Linux, Jupyter, VS Code  
+### 🛠️ Skills  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px"/>
+</p>
 
 ---
 
-## 📌 Featured Projects  
-
-### 🔹 Panchayat Sahayika  
-A multilingual AI-driven assistant for rural citizens to access schemes, guidelines, village-level data, and training information.  
-**Tech:** FastAPI, Groq LLM, Qdrant, Whisper, Garhwali TTS  
-**Repo:** https://github.com/JoshiDeepak08/Panchayat-Sahayika  
-
----
-
-### 🔹 Multimodal RAG System  
-Combining text + image embeddings to build a robust RAG pipeline for document QA.  
-**Tech:** FastAPI, Sentence Transformers, Qdrant  
-
----
-
-### 🔹 SQL Data Analysis Projects  
-Explorations and case studies using MySQL & PostgreSQL.  
-
----
-
-### 🔹 Machine Learning Projects  
-Hands-on ML notebooks including regression, classification, clustering, and EDA.  
-
----
-
-## 📬 Connect with Me  
-[LinkedIn](https://www.linkedin.com/in/your-link/)  
-[Portfolio](https://your-portfolio-link/)  
-[Email](mailto:your-email@example.com)
-
----
-
-## 📊 GitHub Stats  
-
-![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoshiDeepak08&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshiDeepak08&layout=compact&theme=radical)
-
----
-
-### Thanks for visiting!
+<p align="center">Thanks for visiting!</p>
