@@ -7,11 +7,13 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1Dnooik6tTwi44TPvtb_MtUxsFLmQQbEB/view?usp=sharing" target="_blank">
-    <strong>Resume</strong>
+    Resume
   </a>
   &nbsp;•&nbsp;
   <a href="https://portfolio-main-tan-three.vercel.app/" target="_blank">
-    <strong>Portfolio</strong>
+    Portfolio
+    </a>
+  &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/deepak-joshi-417570293/" target="_blank">
     LinkedIn
   </a>
