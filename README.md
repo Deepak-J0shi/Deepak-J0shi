@@ -25,5 +25,9 @@
   <a href="https://medium.com/@joshideepak2334" target="_blank">
     Medium
   </a>
+  &nbsp;•&nbsp;
+  <a href="https://authors-page-iota.vercel.app/" target="_blank">
+    Author's-Page
+  </a>
 </p>
 
