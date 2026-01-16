@@ -22,7 +22,7 @@
     HuggingFace
   </a>
   &nbsp;•&nbsp;
-  <a href="https://medium.com/@joshideepak2334" target="_blank">
+  <a href="https://medium.com/@Deepak-J0shi" target="_blank">
     Medium
   </a>
   &nbsp;•&nbsp;
