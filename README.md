@@ -1,6 +1,3 @@
-<h3 align="center"><i> My Book, "I Was Never Me After You" is coming soon!! </i></h3>
-
-
 <hr/>
 
 <a href="https://github.com/Deepak-J0shi">
@@ -36,3 +33,4 @@
   </a>
 </p>
 
+<h3 align="center"><i> My Book, "I Was Never Me After You" is coming soon!! </i></h3>
