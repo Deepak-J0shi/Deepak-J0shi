@@ -1,8 +1,5 @@
-<h2 align="center">Coming Soon</h2>
-<h3 align="center"><i>I Was Never Me After You</i></h3>
-<p align="center">
-A prose–poetry journey on love, loss, and becoming.
-</p>
+<h3 align="center"><i> My Book, "I Was Never Me After You" is coming soon!! </i></h3>
+
 
 <hr/>
 
