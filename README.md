@@ -34,8 +34,11 @@
 </p>
 
 <h3 align="center"><i> My Book, "I Was Never Me After You" is live now!! </i></h3>
+<p align="center">
+  <h5<i> Grab yours now: </i></h5>
 </a>
   &nbsp;•&nbsp;
-  <a href="YOUR_AMAZON_BOOK_LINK" target="_blank">
-    📖 My Book
+  <a href="https://amzn.in/d/0cNeeE6D" target="_blank">
+    I Was Never Me After You
   </a>
+</p>
