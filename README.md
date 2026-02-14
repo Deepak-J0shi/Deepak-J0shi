@@ -33,7 +33,7 @@
   </a>
 </p>
 
-<h3 align="center"><i> My Book, "I Was Never Me After You" is live now!! </i></h3>
+<h3 align="center"><i> Author of "I Was Never Me After You" – Now Live on Amazon </i></h3>
 <p align="center">
   <h4<i> Grab Yours Now </i></h4>
 </a>
