@@ -35,7 +35,7 @@
 
 <h3 align="center"><i> My Book, "I Was Never Me After You" is live now!! </i></h3>
 <p align="center">
-  <h5<i> Grab yours now: </i></h5>
+  <h4<i> Grab Yours Now </i></h4>
 </a>
   &nbsp;•&nbsp;
   <a href="https://amzn.in/d/0cNeeE6D" target="_blank">
